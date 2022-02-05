@@ -3,3 +3,4 @@ data
 tutorial1
 tutorial2
 .ipynb_checkpoints
+.DS_store
